@@ -15,7 +15,7 @@ The Automated Expense Tracker is a Python-based application designed to help sma
 ```
 2. Navigate to the project directory:
 ```bash
-cd expense_tracker
+cd automated-expense-tracker
 ```
 3. Install the required dependencies:
 ```bash
